@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Murari Kumar 👋
 
-<!--
-**StarMurari/StarMurari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack JavaScript Developer
 
-Here are some ideas to get you started:
+I build scalable web and mobile applications using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- React.js
+- Next.js
+- React Native
+- Expo
+- Node.js
+- PostgreSQL
+- Tailwind CSS
+
+### Experience
+- Worked on production applications like:
+  - ROD24 (https://rod24.com)
+  - RodBez (https://rodbez.com)
+  - AskScoutly (https://askscoutly.com)
+
+### What I Built
+- Admin Dashboards
+- Ride Booking Systems
+- Mobile Apps
+- API Integrations
+- Responsive UI/UX
+
+### Portfolio
+uincode.com
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/murari-3655-kumar/
+- GitHub: github.com/StarMurari
