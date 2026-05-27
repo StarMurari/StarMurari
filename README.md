@@ -51,4 +51,4 @@ uincode.com
 
 ### Connect With Me
 - LinkedIn: https://www.linkedin.com/in/murari-3655-kumar/
-- GitHub: github.com/StarMurari
+- GitHub: https://github.com/StarMurari
