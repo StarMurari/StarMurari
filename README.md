@@ -13,11 +13,31 @@ I build scalable web and mobile applications using modern JavaScript technologie
 - PostgreSQL
 - Tailwind CSS
 
-### Experience
-- Worked on production applications like:
-  - ROD24 (https://rod24.com)
-  - RodBez (https://rodbez.com)
-  - AskScoutly (https://askscoutly.com)
+## Professional Experience
+
+### Frontend Developer — Scoutly
+
+Worked on the development of the Scoutly platform, including:
+- Public-facing website development
+- Creator dashboard implementation
+- Admin panel development
+- Chatbot integration
+- API integration and dynamic data handling
+- Responsive UI/UX optimization
+- Reusable component architecture
+
+### Frontend Developer — ROD24
+- Built and maintained a complete frontend architecture
+- Developed responsive booking flows and dashboards
+- Integrated backend APIs and authentication systems
+- Created reusable components and scalable UI modules
+- Worked on ride booking, fare handling, and admin workflows
+
+### Frontend Developer — RodBez
+- Developed production-ready React/Next.js interfaces
+- Handled API integration and dynamic data rendering
+- Improved responsive UI/UX across devices
+- Built reusable frontend components and dashboard modules
 
 ### What I Built
 - Admin Dashboards
